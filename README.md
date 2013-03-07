@@ -1,3 +1,5 @@
 _Slotherizer_
 
-A simple chrome exension for Slothing up any page!
+Probably the best extension available for Chrome. [slotherizer](https://chrome.google.com/webstore/detail/slotherizer/menjgoabedaniipieeggfppaiibhdefk)
+
+
